@@ -9,7 +9,7 @@ This repo documents my daily hands-on learning with cybersecurity tools, startin
 ### ✅ Day 1 – Wireshark (Traffic Capture)
 - Captured and analyzed DNS, HTTP, and TCP traffic
 - Learned to apply filters: `http`, `dns`, `icmp`, `tcp.port`
-- [View Analysis Log](wireshark/Day1-Wireshark.md)
+- [View Analysis Log](Day1-Wireshark.md)
 - 📂 `.pcapng` file included for real traffic evidence
 
 ---
